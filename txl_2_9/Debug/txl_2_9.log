@@ -1,0 +1,13 @@
+﻿  funcation.c
+D:\git\practice daily\txl_2_9\funcation.c(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+D:\git\practice daily\txl_2_9\funcation.c(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test.c
+  正在生成代码...
+test.obj : error LNK2019: 无法解析的外部符号 _AddInformation，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _DelegateInformation，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _ModifyInformation，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _FindInformation，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _SortInformation，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _PrintContact，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _Initailizetxl，函数 _main 中引用了该符号
+D:\git\practice daily\txl_2_9\Debug\txl_2_9.exe : fatal error LNK1120: 7 个无法解析的外部命令

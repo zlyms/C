@@ -1,0 +1,6 @@
+﻿  funcation.c
+D:\git\practice daily\txl_2_15\funcation.c(155,53): warning C4090: “函数”: 不同的“const”限定符
+D:\git\practice daily\txl_2_15\funcation.c(155,53): warning C4028: 形参 1 与声明不同
+D:\git\practice daily\txl_2_15\funcation.c(155,53): warning C4028: 形参 2 与声明不同
+D:\git\practice daily\txl_2_15\funcation.c(156): warning C4715: “SortInformation”: 不是所有的控件路径都返回值
+  txl_2_15.vcxproj -> D:\git\practice daily\txl_2_15\Debug\txl_2_15.exe
