@@ -1,0 +1,4 @@
+﻿  game.c
+D:\git\practice daily\text_10.23_game2\game.c(103): warning C4716: “JudgeBoom”: 必须返回一个值
+D:\git\practice daily\text_10.23_game2\game.c(142): warning C4715: “ShowRoundBoom2”: 不是所有的控件路径都返回值
+  text_10.23_game2.vcxproj -> D:\git\practice daily\text_10.23_game2\Debug\text_10.23_game2.exe
