@@ -1,0 +1,5 @@
+﻿  test.c
+D:\git\practice daily\test_2_6\test.c(51,34): warning C4090: “函数”: 不同的“const”限定符
+D:\git\practice daily\test_2_6\test.c(51,34): warning C4028: 形参 1 与声明不同
+D:\git\practice daily\test_2_6\test.c(51,34): warning C4028: 形参 2 与声明不同
+  test_2_6.vcxproj -> D:\git\practice daily\test_2_6\Debug\test_2_6.exe
